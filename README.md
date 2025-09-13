@@ -52,7 +52,7 @@
 ### 🐻🐱 달곰냥냥마을
 [![달곰냥냥마을](https://github.com/user-attachments/assets/f1c860cc-8c82-4632-922b-3d31477ddd5f)](https://github.com/kiihyun/DalgomMeowMeow)
 
-👉 [달곰냥냥 마을] [보러가기]((https://github.com/kiihyun/DalgomMeowMeow))
+👉 [달곰냥냥 마을] [보러가기](https://github.com/kiihyun/DalgomMeowMeow)
 👉 [프로젝트 한눈에 보기](#)
 
 ---
