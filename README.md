@@ -4,7 +4,7 @@
 [📝 Naver Blog](#) | [📂 Portfolio](#) | [🐙 GitHub Projects](#)
 
 ---
-
+<div align="center">
 ## 💻 Language
 - C++
 - C#
@@ -48,3 +48,4 @@
 ---
 
 ✨ *Always learning, building, and creating better games!*
+</div>
