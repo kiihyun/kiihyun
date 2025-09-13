@@ -42,8 +42,7 @@
 ---
 ## 🏆 대표 프로젝트
 - 🐻🐱 **달곰냥냥마을** → [보러가기](https://github.com/kiihyun/DalgomMeowMeow)  
-- ⚡ **ATOM: Unity MMORPG & IOCP 서버 연동 프로젝트** → [보러가기](#)  
-- 🎲 **텍스트 RPG & 미니게임 모음** → [보러가기](#)  
+
 
 👉 [프로젝트 한눈에 보기](#)
 
