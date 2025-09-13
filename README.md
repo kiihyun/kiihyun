@@ -6,32 +6,40 @@
 ---
 <div align="center">
 ## 💻 Language
-- C++
-- C#
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 ---
 
 ## 🎮 Game Engine / Graphics
-- Unity (2D / 3D / VR)
-- Unreal Engine
-- DirectX 11
+
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal-313131?style=for-the-badge&logo=unrealengine&logoColor=white)
+![Unity VR](https://img.shields.io/badge/Unity%20VR-000000?style=for-the-badge&logo=unity&logoColor=white)
+![DirectX 11](https://img.shields.io/badge/DirectX11-0082C9?style=for-the-badge)
 
 ---
 
-## 🔌 Networking Library
-- Mirror
-- Photon
-- Fusion 2
+## 🔌 Use Networking Library
+
+![Mirror](https://img.shields.io/badge/Mirror-FF69B4?style=for-the-badge)
+![Photon Fusion 2](https://img.shields.io/badge/Photon%20Fusion2-0082C9?style=for-the-badge)
 
 ---
 
 ## 🛠 Tools
-- Git / GitHub / GitLab  
-- SourceTree / TortoiseSVN  
-- Figma / Notion / Slack  
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![SourceTree](https://img.shields.io/badge/SourceTree-0052CC?style=for-the-badge&logo=sourcetree&logoColor=white)
+![TortoiseSVN](https://img.shields.io/badge/TortoiseSVN-8FC4FF?style=for-the-badge)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+
 
 ---
-
 ## 🏆 대표 프로젝트
 - 🐻🐱 **달곰냥냥마을** → [보러가기](https://github.com/kiihyun/DalgomMeowMeow)  
 - ⚡ **ATOM: Unity MMORPG & IOCP 서버 연동 프로젝트** → [보러가기](#)  
